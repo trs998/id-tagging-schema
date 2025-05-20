@@ -1,0 +1,30 @@
+{
+    "key": "roof:shape",
+    "type": "combo",
+    "label": "Roof Shape",
+    "strings": {
+        "options": {
+            "flat": "Flat roof",
+            "gabled": "Ridged with upright gables",
+            "gabled_height_moved": "Gabled with a split height ridge",
+            "skillion": "Single slope",
+            "hipped": "Hipped roof",
+            "half-hipped": "Hipped roof with partial upright gables",
+            "side_hipped": "Hipped roof with a gabled end",
+            "side_half-hipped": "Half-hipped roof with a gabled end",
+            "hipped-and-gabled": "Hipped with gables",
+            "mansard": "Mansard roof",
+            "gambrel": "Gambrel roof",
+            "pyramidal": "Roof with single point",
+            "crosspitched": "Gabled with crossing ridge",
+            "sawtooth": "Sawtooth roof",
+            "butterfly": "Butterfly roof",
+            "cone": "Conical roof with a point",
+            "dome": "Domed roof",
+            "onion": "Onion roof",
+            "Round": "Round ridged roof"
+        }
+    },
+    "autoSuggestions": false,
+    "customValues": false
+}
